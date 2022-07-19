@@ -1,0 +1,17 @@
+.regularp {
+    background-color: rgb(182, 76, 155);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.biggerp {
+    font-size: 24px;
+}
+#number2 {
+    font-size: 36px;
+    color: rgb(0, 0, 255);
+}
+#number4 {
+    background-color: rgb(127, 255, 148);
+    color: black;
+    font-weight: bold;
+    font-size: 24;
+}
